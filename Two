@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+	*{
+	margin:0;
+	padding:0;
+	}
+	body {
+  	font-family: Calibri;
+  	color: white;
+	}
+	.container{
+	position:relative;
+	text-align:center;
+	color:black;
+	}
+	#menu ul {
+	background: #1F568B;
+	list-style-type: none;
+	text-align: center;
+	margin-top:0;
+	margin-bottom:0;
+	}
+	#menu li {
+	color: #f1f1f1;
+	display: inline-block;
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	margin-left: -5px;
+	}
+	#menu a {
+	text-decoration: none;
+	color: #fff;
+	display: block;
+	}
+	#menu a:hover {
+	background: #F1F1F1;
+	color: #333;
+	}
+	#menu a:focus {
+ 	background-color: yellow;
+	color: #333;
+	}
+	#menu a:active {
+ 	background-color: orange;
+	}
+	.im{
+	position:absolute;
+	top:100%;
+	}
+	.theprofile{
+	position: absolute;
+	top: 26%;
+	left: 16%;
+	background:white;
+	text-align:center;
+	border:solid #19ffff;
+	}
+	.subtitle{
+	color:red;
+	left:50%	
+	}
+	.right{
+	position: absolute;
+	top: 29%;
+	right: 15%;
+  	height: 400 px;
+	text-align:justify;
+	color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	border:solid white;    	
+	}
+	.contact_info{
+	font-size: 15px;
+	font-family:Monospace;
+	position: absolute;
+	bottom: 10%;
+	right:43%;
+	text-align:justify;
+	color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;	
+	}
+</style>
+<body>
+<div class ="container">
+	<div id="menu">
+	  		<ul>
+	    		<li><a href="#">ME</a></li>
+	    		<li><a href="#">POP</a></li>
+	    		<li><a href="#">MUM</a></li>
+	    		<li><a href="#">SIS</a></li>
+	    		<li><a href="http://www.wikipedia.org">Alma Mater</a></li>
+	  		</ul>
+	</div>
+	<div class="im">
+			<img src="file:///home/boris/Downloads/photo-1502657877623-f66bf489d236.jpeg" width=1280>
+
+	<div class ="theprofile">
+		<div class="pic">
+			<img src="file:///home/boris/Downloads/index.jpeg">
+		</div>
+		<div class ="subtitle">
+			<strong>Self Portrait</strong>
+		</div>
+	</div>
+	<hr><div class ="right">
+		<h1>Phan Trung Dung</h1>
+		<p>Gender&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:M</p>
+		<p>DoB   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    :10/1/1997</p>
+		<p>PoB	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :Hanoi</p>
+		<p>Highschool&nbsp;&nbsp;&nbsp;&nbsp;:THPT Truong Dinh</p>
+		<p>Alma mater&nbsp;&nbsp;&nbsp;&nbsp;:Ptit Hanoi</p>
+		<p>Major   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :Electronic Engineering</p>
+		
+		</div>
+		<div class = "contact_info">
+		<hr>
+		<i>CONTACT ME AT</i>
+		<p>Phone&nbsp;:0396927846</p>
+		<p>Email&nbsp;:reaver013569@gmail.com</p>
+		<hr>
+	</div>	
+	</div>	
+</div> 
+</body>
+</html>
