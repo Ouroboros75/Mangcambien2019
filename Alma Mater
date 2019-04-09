@@ -63,30 +63,33 @@
 	left:50%	
 	}
 	.right{
+	background-color:white;
 	position: absolute;
 	top: 29%;
 	right: 15%;
   	height: 400 px;
 	text-align:justify;
-	color:white;
+	color:black;
 	padding-top:20px;
 	padding-bottom:20px;
 	padding-left:20px;
 	padding-right:20px;
-	border:solid white;    	
+	border:solid black;    	
 	}
 	.contact_info{
+	background-color:white;
 	font-size: 15px;
 	font-family:Monospace;
 	position: absolute;
-	bottom: 10%;
-	right:43%;
+	bottom: 5%;
+	right:13%;
 	text-align:justify;
-	color:white;
+	color:black;
 	padding-top:10px;
 	padding-bottom:10px;
 	padding-left:10px;
-	padding-right:10px;	
+	padding-right:10px;
+	border:solid black;	
 	}
 </style>
 <body>
@@ -101,32 +104,18 @@
 	  		</ul>
 	</div>
 	<div class="im">
-			<img src="file:///home/boris/Downloads/photo-1502657877623-f66bf489d236.jpeg" width=1280>
+			<img src="file:///home/boris/Downloads/top-cac-truong-dao-tao-nganh-toan-thong-tin-o-viet-nam-3.jpg" width=1280>
 
-	<div class ="theprofile">
-		<div class="pic">
-			<img src="file:///home/boris/Downloads/index.jpeg">
-		</div>
-		<div class ="subtitle">
-			<strong>Self Portrait</strong>
-		</div>
-	</div>
 	<hr><div class ="right">
-		<h1>Phan Trung Dung</h1>
-		<p>Gender&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:M</p>
-		<p>DoB   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   :10/1/1997</p>
-		<p>PoB	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  :Hanoi</p>
-		<p>Highschool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:THPT Truong Dinh</p>
-		<p>Alma mater&nbsp;&nbsp;&nbsp;&nbsp;:Ptit Hanoi</p>
-		<p>Major   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :Electronic Engineering</p>
-		
+		<h1>Post Telecommunication</h1> 
+		<h1>institute of Technology</h1>
+		<p>Founding   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   :11/7/1997</p>
+		<p>Director	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  :Professor Vu Van San</p>
 		</div>
 		<div class = "contact_info">
-		<hr>
-		<i>CONTACT ME AT</i>
-		<p>Phone&nbsp;:0396927846</p>
-		<p>Email&nbsp;:reaver013569@gmail.com</p>
-		<hr>
+		<i>CONTACT INFOS</i>
+		<p>Address&nbsp;:10th km Tran Phu, Ha Dong district, Hanoi</p>
+		<p>Phone&nbsp;:+84-(0)4. 3351 2254</p>
 		</div>	
 	</div>	
 </div> 

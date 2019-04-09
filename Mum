@@ -105,27 +105,23 @@
 
 	<div class ="theprofile">
 		<div class="pic">
-			<img src="file:///home/boris/Downloads/index.jpeg">
+			<img src="file:///home/boris/Downloads/emptyPortrait.png">
 		</div>
 		<div class ="subtitle">
 			<strong>Self Portrait</strong>
 		</div>
 	</div>
 	<hr><div class ="right">
-		<h1>Phan Trung Dung</h1>
-		<p>Gender&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:M</p>
-		<p>DoB   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   :10/1/1997</p>
-		<p>PoB	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  :Hanoi</p>
-		<p>Highschool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:THPT Truong Dinh</p>
-		<p>Alma mater&nbsp;&nbsp;&nbsp;&nbsp;:Ptit Hanoi</p>
-		<p>Major   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :Electronic Engineering</p>
+		<h1>Nguyen Thi Chan Phuong</h1>
+		<p>DoB   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   :15/6/1970</p>
+		<p>PoB	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  :Thanh Hoa city</p>
+		<p>Major   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :Accounting
 		
 		</div>
 		<div class = "contact_info">
 		<hr>
 		<i>CONTACT ME AT</i>
-		<p>Phone&nbsp;:0396927846</p>
-		<p>Email&nbsp;:reaver013569@gmail.com</p>
+		<p>Phone&nbsp;:0389392821</p>
 		<hr>
 		</div>	
 	</div>	
